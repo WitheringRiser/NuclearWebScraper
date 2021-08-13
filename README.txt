@@ -100,7 +100,7 @@ Set up the keyword detector:
 	- Open KeywordDetector.py in a code editor
 	- Change variables at the start of the main function.
 	- Modify the following files as desired:
-		"keyword_detector_keywords.txt", "keyword_detector_blacklisted_keywords.txt"ss
+		"keyword_detector_keywords.txt", "keyword_detector_blacklisted_keywords.txt"
 
 Set up the program used to download patent files from the EPO Google Cloud Storage platform:
 	- Open the separate folder on Google Drive "ImportPatentTXT_V2"
@@ -118,4 +118,4 @@ Set up the program to test your IP address:
 
 The various text file inputs are very picky as to how they should be formatted.
 Make sure to not leave any excessive/erroneous spaces or other characters.
-In this folder "DOCUMENTATION", there are several example files to showcase how the input should be.
+In the folder "DOCUMENTATION", there are several example files to showcase how the input should be.
