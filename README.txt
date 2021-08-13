@@ -9,7 +9,7 @@ nltk, scikit-learn, selenium
 This program helps perform research for new innovations in the nuclear sector. There are various processes and 
 programs run that streamline this process. There are two files containing two different programs. The file
 named "ImportPatentTXT_V2" solely takes care of downloading EPO patent files from Google Cloud Storage.
-The other file named "WebScraping" is where the meat of the program is. Here there are two subprograms: web scraping
+All other files are where the meat of the program is. Here there are two subprograms: web scraping
 and keyword detection. Below is a general outline of the steps of these programs.
 
 Web scraping program (run through "RunEntireProgram.py" that combines various programs in the order listed below)
