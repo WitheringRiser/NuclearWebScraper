@@ -1,0 +1,26 @@
+* This file should be formatted as follows:
+*	One keyword phrase per line.
+*	Case sensitive. Recommended to include: 1. The lowercase version and 2. The version with the first letter capitalized.
+*	Spaces can exist within each keyword phrase
+* The program searches for the existance of the following combination of characters in the displayed website text
+* 	For example, "Locomotive" would reduce points for websites that mention "Locomotive" anywhere on their website.
+
+
+
+Car
+Engine
+Vehicle
+Plane
+Train
+Locomotive
+Wings
+Aero
+Rail
+Helicopter
+Boat
+Ship
+Phone
+Broadband
+Consumer
+Applicance
+Customer

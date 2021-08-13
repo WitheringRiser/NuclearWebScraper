@@ -1,0 +1,26 @@
+Company;Website;Score;Primary Keyword Matches from EPO;Secondary Keyword Matches from EPO;Nuclear mentioned on website;Oil and Gas mentioned on website;Keyword Matches from Website;Tab Matches from Website;Patent #
+Ecolab USA Inc;https://www.ecolab.com;235;['microbial  (primary)'];[];Y;Y;['Energy', 'Nuclear', 'Energy', 'Energy', 'Energy', 'Nuclear', 'Energy', 'Energy', 'Energy', 'Nuclear', 'Energy', 'oil', 'and', 'gas', 'oil', 'and', 'gas', 'Energy', 'Energy', 'oil', 'and', 'gas', 'oil', 'and', 'gas', 'Energy', 'Energy', 'Nuclear', 'energy'];['Services', 'Products', 'Services', 'Industries', 'Products', 'Services', 'Products'];EP3501283
+Atotech Deutschland GmbH;https://www.atotech.com;150;['corrosion  (primary)'];[];;;;['Products'];EP3502320
+Belenos Clean Power Holding AG;https://www.belenoscleanpower.com;120;['corrosion  (primary)'];[];;;['Energy', 'energy', 'energy', 'energy', 'energy'];;EP3503268
+Imertech SAS;https://www.onscope.com;155;['microbial  (primary)'];[];;;['energy'];['Products'];EP3502194
+Tubacex Innovacion AIE;https://www.maltaproiektua.es;135;['corrosion  (primary)'];[];;Y;['oil', 'and', 'gas', 'oil', 'and', 'gas', 'energy'];;EP3502294
+Chongqing Dayou Surface Technology Co Ltd;http://en.cqdayou.com;100;['corrosion  (primary)'];[];;;;;EP3502304
+Hyundai Motor Co;http://www.hyundai.com;100;['corrosion  (primary)'];[];;;;;EP3502607
+Molecular Templates Inc;https://www.mtem.com;100;['microbial  (primary)'];[];;;;;EP3502134
+Nitto Belgium NV;https://www.nitto.com;100;['corrosion  (primary)'];[];;;;['Products', 'Products', 'Products'];EP3505583
+BASF SE;https://www.basf.com;150;['microbial  (primary)'];[];;;;['Products', 'Industries'];EP3505616
+Marrone Bio Innovations Inc;https://marronebio.com;150;['microbial  (primary)'];[];;;;['Products'];EP3504970
+JFE Steel Corp;https://www.jfe-steel.co.jp;100;['corrosion  (primary)'];[];;;['Energy'];['Products'];EP3508610
+Hexagon Technology Center GmbH;https://hexagon.com;215;[];['monitoring  (secondary)', 'change  (secondary)'];;;['energy', 'Energy', 'Energy'];['Industries'];EP3502611
+Popit Oy;https://popit.io;150;[];['package  (secondary)', 'change  (secondary)'];;;;;EP3501475
+Kone Corp;https://www.kone.com;245;[];['monitoring  (secondary)', 'remote  (secondary)'];;;['energy', 'energy', 'energy', 'energy', 'energy', 'energy', 'energy', 'energy', 'energy', 'energy', 'energy', 'energy', 'energy', 'energy', 'energy', 'energy', 'energy', 'energy', 'energy'];['Products', 'Services'];EP3502030
+LG Electronics Inc;https://www.logo.wine;150;[];['monitoring  (secondary)', 'remote  (secondary)'];;;;;EP3507788
+Comelit Group SpA;https://www.comelitgroup.com;200;[];['change  (secondary)', 'remote  (secondary)'];;;;['Applications'];EP3503476
+Spacelabs Healthcare LLC;https://www.spacelabshealthcare.com;200;[];['monitoring  (secondary)', 'remote  (secondary)'];;;;['Products'];EP3503115
+Philip Morris Products SA;http://www.pmi.com;175;[];['container  (secondary)', 'package  (secondary)'];;;;['Products', 'Products'];EP3505463
+Murata Machinery Ltd;https://www.muratec.net;200;[];['container  (secondary)', 'change  (secondary)'];;;;['Products'];EP3505416
+Kawasaki Heavy Industries Co Ltd;https://global.kawasaki.com;245;[];['monitoring  (secondary)', 'remote  (secondary)'];;;['Energy', 'Energy', 'Energy', 'Energy', 'Energy', 'Energy', 'Energy', 'Energy', 'Energy', 'Energy', 'Energy', 'Energy', 'Energy', 'Energy', 'energy', 'Energy', 'Energy', 'Energy', 'Energy', 'Energy', 'Energy', 'Energy'];['Products', 'Industries'];EP3505314
+Korea Hydro and Nuclear Power Co Ltd;https://cbonds.com;210;[];['monitoring  (secondary)', 'remote  (secondary)'];Y;;['Nuclear', 'Nuclear', 'Nuclear', 'nuclear', 'energy', 'Nuclear', 'Nuclear', 'Nuclear'];['Services'];EP3506320
+Honeywell International Inc;https://www.honeywell.com;200;[];['monitoring  (secondary)', 'change  (secondary)'];;;;['Industries'];EP3506240
+Beijing Surgerii Technology Co Ltd;http://surgerii.com;150;[];['change  (secondary)', 'remote  (secondary)'];;;;;EP3508163
+Koninklijke Philips NV;http://t0.gstatic.com;150;[];['monitoring  (secondary)', 'change  (secondary)'];;;;;EP3509069

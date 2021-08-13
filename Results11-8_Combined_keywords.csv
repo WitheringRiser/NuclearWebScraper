@@ -1,0 +1,59 @@
+Company;Website;Score;Primary Keyword Matches from EPO;Secondary Keyword Matches from EPO;Nuclear mentioned on website;Oil and Gas mentioned on website;Keyword Matches from Website;Tab Matches from Website;Patent #
+Vestel Elektronik Sanayi ve Ticaret AS;https://vestelinternational.com;250;['remote+sensor  (primary)'];['sensor  (secondary)', 'remote  (secondary)'];;;;['Products', 'Products', 'Products', 'Products'];EP3503432
+Corevas & Co KG GmbH;https://www.corevas.de;200;['remote+sensor  (primary)'];['sensor  (secondary)', 'remote  (secondary)'];;;;;EP3503116
+Gunnebo Entrance Control Ltd;https://www.gunneboentrancecontrol.com;150;['remote+sensor  (primary)'];['sensor  (secondary)'];;;;['Industries'];EP3503045
+Unify Patente GmbH and Co KG;https://www.northdata.com;200;['remote+sensor  (primary)'];['sensor  (secondary)'];;;;['Services'];EP3506615
+Korea Hydro and Nuclear Power Co Ltd;https://cbonds.com;260;['remote+sensor  (primary)'];['sensor  (secondary)', 'remote  (secondary)'];Y;;['Nuclear', 'Nuclear', 'Nuclear', 'nuclear', 'energy', 'Nuclear', 'Nuclear', 'Nuclear'];['Services'];EP3505902
+Tektronix Inc;http://www.tek.com;310;['remote+sensor  (primary)'];['sensor  (secondary)', 'remote  (secondary)'];;;['Energy', 'Energy'];['Products', 'Services', 'Applications', 'Industries', 'Products', 'Services', 'Applications', 'Industries'];EP3505942
+Immersion Corp;https://www.immersion.com;150;[];['sensor  (secondary)', 'mapping  (secondary)'];;;;['Services'];EP3557385
+Beijing Surgerii Technology Co Ltd;https://www.crunchbase.com;150;[];['remote  (secondary)', 'mapping  (secondary)'];;;;['Products', 'Industries'];EP3508163
+Globus Medical Inc;https://www.globusmedical.com;255;['remote+sensor  (primary)'];['sensor  (secondary)', 'remote  (secondary)'];;;['energy'];['Products'];EP3510927
+Infineon Technologies AG;https://www.infineon.com;245;[];['sensor  (secondary)', 'sensor  (secondary)'];;;['Energy', 'energy', 'energy', 'Energy', 'energy', 'Energy', 'energy', 'Energy', 'Energy', 'energy', 'energy', 'energy', 'Energy', 'energy', 'energy', 'Energy'];['Products', 'Applications'];EP3511738
+Mann and Hummel GmbH;https://www.mann-hummel.com;230;[];['sensor  (secondary)', 'sensor  (secondary)'];Y;;['Nuclear', 'Energy', 'Energy', 'Energy'];['Products'];EP3513866
+Harman Professional Inc;https://pro.harman.com;250;['remote+sensor  (primary)'];['sensor  (secondary)', 'remote  (secondary)'];;;;['Products', 'Products'];EP3514662
+AGC Glass Europe SA;https://www.agc-glass.eu;270;['remote+sensor  (primary)'];['sensor  (secondary)', 'remote  (secondary)'];;;['energy', 'energy', 'energy', 'energy', 'energy', 'energy'];['Products'];EP3518616
+Microjet Technology Co Ltd;http://www.microjet.com.tw;255;[];['sensor  (secondary)', 'sensor  (secondary)'];;;['energy'];['Products', 'Applications'];EP3564663
+CSG Srl;https://www.csgsrl.eu;200;['remote+sensor  (primary)'];['sensor  (secondary)', 'remote  (secondary)'];;;;['Products', 'Applications', 'Products', 'Applications'];EP3524948
+Braun GmbH;https://www.braun.de;150;[];['sensor  (secondary)', 'sensor  (secondary)'];;;;;EP3528172
+Aptiv Technologies Ltd;https://www.aptiv.com;200;[];['sensor  (secondary)', 'mapping  (secondary)'];;;;['Services'];EP3527940
+Scott Technologies Inc;https://www.scottautomation.com;200;['remote+sensor  (primary)'];['sensor  (secondary)', 'remote  (secondary)'];;;;['Products', 'Industries'];EP3527096
+ServiceNow Inc;https://www.servicenow.com;270;[];['remote  (secondary)', 'mapping  (secondary)'];;;['Energy', 'Energy', 'Energy', 'Energy', 'Energy', 'Energy', 'Energy', 'Energy', 'Energy'];['Products', 'Services', 'Industries'];EP3594824
+Tyco Fire and Security GmbH;https://www.tyco-fire.com;200;['remote+sensor  (primary)'];['sensor  (secondary)', 'remote  (secondary)'];;;;['Products', 'Services', 'Products', 'Services'];EP3534346
+Sick AG;https://www.sick.com;150;[];['sensor  (secondary)', 'sensor  (secondary)'];;;;['Products'];EP3557284
+I-Onconnect Technologies;https://i-onconnect.com;250;['remote+sensor  (primary)'];['sensor  (secondary)', 'remote  (secondary)'];;;;['Services'];EP3536519
+Capital One Services LLC;https://www.capitalone.com;250;['remote+sensor  (primary)'];['sensor  (secondary)', 'remote  (secondary)'];;;;['Products'];EP3594836
+Acclarent Inc;https://www.massdevice.com;200;[];['sensor  (secondary)', 'sensor  (secondary)'];;;;['Services'];EP3586902
+Personal Care Marketing and Research Inc;https://opencorporates.com;150;[];['remote  (secondary)', 'mapping  (secondary)'];;;;;EP3544775
+Matthews International Corp;https://www.matw.com;150;[];['remote  (secondary)', 'remote  (secondary)'];;;;;EP3546074
+Wuxi Maitong Scientific Instrument Co Ltd;https://tc.prv.se;200;['microbial+sensor  (primary)'];['sensor  (secondary)', 'microbial  (secondary)'];;;;;EP3553490
+Medicaroid Corp;http://www.medicaroid.com;250;['remote+sensor  (primary)'];['sensor  (secondary)', 'remote  (secondary)'];;;;['Industries'];EP3552573
+Hyundai Motor Co;http://www.hyundai.com;150;[];['sensor  (secondary)', 'sensor  (secondary)'];;;;;EP3552911
+Intuitive Surgical Operations Inc;https://www.intuitive.com;245;['remote+sensor  (primary)'];['sensor  (secondary)'];;;['Energy', 'Energy', 'energy', 'Energy', 'Energy', 'energy'];['Products', 'Services'];EP3552653
+Google LLC;https://encrypted-tbn0.gstatic.com;150;[];['remote  (secondary)', 'mapping  (secondary)'];;;;;EP3573014
+Seys Medioambiente SL;https://www.seysmedioambiente.com;200;['remote+sensor  (primary)'];['sensor  (secondary)', 'remote  (secondary)'];;;;;EP3556649
+Fairfield Industries Inc;http://fairfield-industries.com;275;['remote+sensor  (primary)'];['sensor  (secondary)', 'remote  (secondary)'];;;;['Products', 'Industries'];EP3561549
+Simol SpA;https://www.simol.com;295;['remote+sensor  (primary)'];['sensor  (secondary)', 'remote  (secondary)'];;;['customized', 'solutions', 'customized', 'solutions'];['Applications'];EP3560774
+Applied Materials Inc;https://www.appliedmaterials.com;175;[];['sensor  (secondary)', 'mapping  (secondary)'];;;;['Products', 'Services', 'Products', 'Services'];EP3563404
+Francotyp Postalia GmbH;https://www.fp-francotyp.com;200;[];['sensor  (secondary)', 'sensor  (secondary)'];;;;['Services'];EP3564910
+LG Electronics Inc;https://www.lg.com;280;['corrosion+sensor  (primary)'];['corrosion  (secondary)', 'sensor  (secondary)'];;;['Energy', 'Energy', 'customized', 'solutions', 'customized', 'solutions', 'Energy', 'Energy', 'Energy', 'Energy', 'energy', 'Energy', 'energy', 'Energy', 'Energy', 'energy', 'energy', 'Energy', 'Energy'];['Products'];EP3570019
+Otis Elevator Co;https://www.otis.com;270;['remote+sensor  (primary)'];['sensor  (secondary)', 'remote  (secondary)'];;;['Energy', 'Energy', 'Energy', 'Energy'];['Products', 'Services'];EP3575256
+Alstom Transport Technologies SAS;https://www.alstom.com;215;[];['sensor  (secondary)', 'mapping  (secondary)'];;;['energy', 'energy', 'energy'];['Services'];EP3575179
+Covidien LP;https://www.medtronic.com;200;[];['sensor  (secondary)', 'sensor  (secondary)'];;;;['Products', 'Products', 'Products'];EP3586767
+Nippon Steel Corp;https://www.nipponsteel.com;205;[];['corrosion  (secondary)', 'mapping  (secondary)'];;;['Energy'];['Products', 'Products'];EP3575422
+Hauni Maschinenbau GmbH;https://www.hauni.com;225;[];['sensor  (secondary)', 'sensor  (secondary)'];;;;['Products', 'Services', 'Services', 'Products', 'Services'];EP3574779
+Cole Parmer Instrument Co;https://www.coleparmer.com;300;['remote+sensor  (primary)'];['sensor  (secondary)', 'remote  (secondary)'];;;;['Products', 'Services', 'Industries'];EP3575750
+Allstate Insurance Co;https://www.allstate.com;150;['corrosion+sensor  (primary)'];['sensor  (secondary)'];;;;;EP3577622
+Caavo Inc;https://caavo.com;150;[];['remote  (secondary)', 'mapping  (secondary)'];;;;;EP3579551
+Rieter Ingolstadt GmbH;https://www.rieter.com;225;[];['sensor  (secondary)', 'sensor  (secondary)'];;;;['Products', 'Services', 'Products', 'Services'];EP3578700
+Brillnics Inc;https://www.brillnics.com;200;[];['sensor  (secondary)', 'sensor  (secondary)'];;;;['Products'];EP3579275
+Honeywell International Inc;https://www.honeywell.com;200;[];['sensor  (secondary)', 'sensor  (secondary)'];;;;['Industries'];EP3581380
+Eaton Intelligent Power Ltd;https://powerquality.eaton.com;160;[];['sensor  (secondary)', 'sensor  (secondary)'];;;['Energy', 'Energy'];;EP3582356
+Viavi Solutions Inc;https://www.viavisolutions.com;250;[];['sensor  (secondary)', 'sensor  (secondary)'];;;;['Products', 'Services', 'Applications'];EP3588152
+Adaptive Regelsysteme GmbH;https://www.adresys.com;150;[];['sensor  (secondary)', 'sensor  (secondary)'];;;;;EP3588718
+Baxter Healthcare SA;https://www.baxter.com;250;['remote+sensor  (primary)'];['sensor  (secondary)', 'remote  (secondary)'];;;;['Products'];EP3586888
+Husqvarna AB;https://www.husqvarnagroup.com;245;[];['remote  (secondary)', 'remote  (secondary)'];;;['energy', 'energy', 'energy', 'energy'];['Products'];EP3586593
+Reliance Core Consulting LLC;https://www.reliancecoreconsulting.com;150;[];['remote  (secondary)', 'remote  (secondary)'];;;;;EP3594898
+Rosemount Inc;http://www.sincoid.com;200;['corrosion+sensor  (primary)'];['corrosion  (secondary)', 'sensor  (secondary)'];;;;['Products', 'Services'];EP3598097
+ASML Netherlands BV;https://www.asml.com;250;['remote+sensor  (primary)'];['sensor  (secondary)', 'remote  (secondary)'];;;;['Products'];EP3599632
+F Hoffmann La Roche AG;https://www.roche.com;275;['remote+sensor  (primary)'];['sensor  (secondary)', 'remote  (secondary)'];;;;['Products'];EP3599610
+Ricoh Co Ltd;https://www.ricoh.com;250;[];['sensor  (secondary)', 'sensor  (secondary)'];;;;['Products', 'Services', 'Industries'];EP3599493

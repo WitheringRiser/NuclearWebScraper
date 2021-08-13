@@ -1,0 +1,42 @@
+Geostatistical 1
+Imaging system 1
+Remote sampling system 1
+Contaminant concentration 1
+Mobile nuclides 1
+Trace impurity 1
+Segmentation 2
+Dismantling 2
+Arc saw 1
+Secondary waste 1
+Decontamination 1
+Remediation 1
+Mobility of contaminants 1
+Decommissioning 1
+Bind actinides 1
+Cryogenic 2
+Long-term interactions 1
+SAFSTOR 1
+Gamma imaging 1
+Robotics 2
+Remote handling 2
+Orphan waste 1
+Radwaste 1
+Radioactive waste management 1
+Dosimetry 1
+Radiological characterisation 1
+Radiological sampling 1
+ROV 2
+Remote operated vehicle 2
+Cleanup 2
+Clean-up 2
+Robot 2
+Spent fuel 1
+Characterisation 2
+Waste characterisation 1
+Substrate 2
+Radiation 1
+Gas 2
+Contaminated 2
+Sensor 2
+Signal 2
+Detector 2

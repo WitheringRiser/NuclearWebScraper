@@ -1,0 +1,79 @@
+Imaging system 1
+Remote sampling system 1
+Mobile nuclides 1
+Dismantling 2
+Decontamination 1
+Remediation 1
+Decommissioning 1
+SAFSTOR 1
+Gamma imaging 1
+Robotics 2
+Remote handling 2
+Orphan waste 1
+Radwaste 1
+Radioactive waste management 1
+Dosimetry 1
+Radiological characterisation 1
+Radiological sampling 1
+ROV 2
+Remote operated vehicle 2
+Cleanup 2
+Clean-up 2
+Robot 2
+Spent fuel 1
+Waste characterisation 1
+Radiation 1
+Extreme environment 2
+Harsh environment 2
+Legacy 1
+Alpha camera 1
+Alpha imaging 1
+Radioisotope 2
+Vision system 2
+Mapping 2
+Radioanalysis 1
+Radioanalyte 1
+Plutonium 1
+Tritium 1
+Radioprotection 1
+Radiometric 1
+Radiological 1
+Contamination 2
+Cps 1
+WAC 1
+Hazardous waste 2
+ALARP 1
+ALARA 1
+Fuel 2
+Radioactive source 1
+Monitoring 2
+Pitting 2
+Corrosion 1
+Sludge 1
+Thermal treatment 1
+Encapsulation 2
+AUV 1
+Drone 1
+Aerial 1
+Quadruped 1
+Pipe inspection 1
+HAL 1
+Liquor 2
+Nuclear site 1
+Nuclear operator 1
+Cans 2
+Container 2
+Shielded 1
+Shielding 1
+Radiological 1
+Radioanalytical 1
+Manipulator 1
+MSM 1
+Master slave 1
+Waste segregation 1
+Waste sorting 1
+Laser cutting 1
+Fuel 2
+Glovebox 1
+Inspection 1
+Dismantling 1

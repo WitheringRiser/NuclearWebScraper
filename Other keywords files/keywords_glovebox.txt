@@ -1,7 +1,7 @@
 All sectors 2
 All Sectors 2
-Multiple industries 3
-Multiple Industries 3
+Multiple industries 2
+Multiple Industries 2
 Customized Solutions 2
 Customized solutions 2
 COTS 3
@@ -11,7 +11,17 @@ Manufacturers in multiple sectors 3
 Manufacturers in Multiple Sectors 3
 Manufacturers in multiple industries 3
 Manufacturers in Multiple Industries 3
-Nuclear 3
-Oil and Gas 3
-Oil And Gas 3
-Energy 1
+Medical 2
+Drug rehabilitation 2
+Pharmaceutical 2
+Defense 1
+Textiles 3
+Materials 2
+Composites 1
+Moulding 2
+Emergency services 2
+Diving 2
+Deep sea exploration 2
+New textile 3
+New material 3
+New fabric 3

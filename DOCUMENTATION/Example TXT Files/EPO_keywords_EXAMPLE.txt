@@ -1,0 +1,17 @@
+* This file should be formatted as follows:
+*	One (or several if using the "+" method) phrases per line.
+*	Needs to be lower case
+*	The end of each line should be a single space followed by 1 (to denote primary) or 2 (to denote secondary)
+*	Spaces can exist within each keyword phrase
+*	If you want to make sure that certain keywords appear together, combine these keyword phrases with a "+" 
+*	in between, with no spaces on either side of the plus sign.
+*		Ex: remote+in situ 1 would mean that the keyword phrase "remote" and the keyword phrase "in situ"
+*		appearing anywhere inside the patent would register as a single primary keyword match.
+
+remote+in situ 1
+remote+sensor+detection 1
+microbial 1
+corrosion 1
+sensor 2
+in situ 1
+change 2

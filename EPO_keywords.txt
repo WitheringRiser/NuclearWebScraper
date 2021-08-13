@@ -1,4 +1,10 @@
-Nuclear
-Oil
-Gas
-Chemical
+microbial+sensor 1
+corrosion+sensor 1
+remote+sensor 1
+corrosion 2
+in situ 2
+in-situ 2
+sensor 2
+remote 2
+microbial 2
+mapping 2

@@ -1,0 +1,55 @@
+* This file is formatted as follows:
+*	One word per line, no spaces before, after, or in-between
+*	Needs to be lowercase
+* The program searches for the existance of the following combination of characters in a website address.
+* 	For example, ".edu" would remove any website address that has the characters ".edu" in succession in the address.
+
+wiki
+foursquare
+linkedin
+bloomberg
+dnb
+intel
+fuji
+philips
+hp
+hitachi
+ge.com
+ericsson
+sony
+panasonic
+.edu
+jnj
+siemens
+tencent
+alibaba
+huawei
+toyota
+deere
+mitsubishi
+honda
+zto
+t-mobile
+rolls-royce
+volkswagen
+instagram
+facebook
+twitter
+boeing
+airbus
+adidas
+nokia
+mazda
+samsung
+irobot
+bosch
+university
+apple
+mhi.com
+caterpillar
+scania
+nissan
+canon
+volvo
+ihi.co
+hightech

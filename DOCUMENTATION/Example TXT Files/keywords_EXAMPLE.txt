@@ -1,0 +1,27 @@
+* This file should be formatted as follows:
+*	One keyword phrase per line.
+*	Case sensitive. Recommended to include: 1. The version with all imporant words' first letter capitalized
+*	(like "Manufacturers in Multiple Sectors") and 2. The version with only the first word's first letter capitalized
+*	(like Manufacturers in multiple sectors).
+*	The end of each line should be a single space followed by 1, 2, or 3.
+*		This relates to the score weight of the keyword, with 1 being the lowest score and 3 being the highest.
+*	Spaces can exist within each keyword phrase
+* These keywords are the keywords the program searches for on the website itself, not the patent
+
+All sectors 2
+All Sectors 2
+Multiple industries 3
+Multiple Industries 3
+Customized Solutions 2
+Customized solutions 2
+COTS 3
+Customized Off-The-Shelf-Solutions 3
+Customized off-the-shelf solutions 3
+Manufacturers in multiple sectors 3
+Manufacturers in Multiple Sectors 3
+Manufacturers in multiple industries 3
+Manufacturers in Multiple Industries 3
+Nuclear 3
+Oil and Gas 3
+Oil And Gas 3
+Energy 1

@@ -1,0 +1,18 @@
+'https://www.tribosonics.com': 130, 'https://www.haption.com': 0, 'http://www.safetechnologies.en': 0, 'https://www.inwibe.com': 55, 
+'https://www.shadowrobot.com': 160, 'https://www.laevo-exoskeletons.com': 50, 'https://www.lynkeos.co.uk': 135, 
+'https://envinet.com': 70, 'https://www.ysi.com': 120, 'https://www.dotocean.eu': 85, 'https://krakenrobotics.com': 95, 
+'https://www.viridian-tc.co.uk': 135, 'https://phdsco.com': 140, 'https://www.adroctech.com': 135, 'https://www.spar3d.com': 110, 
+'https://www.ob-do.com': 0, 'https://inspector-systems.com': 60, 'https://www.cea.fr': 50, 'https://nj.pseg.com': 70, 
+'https://www.ocrobotics.com': 5, 'http://strane-innovation.com': 5, 'https://www.framatome.com': 160, 'https://www.orano.group': 110, 
+'https://vitechlab.com': 0, 'https://www.sensordriven.com': 90, 'https://reuter.works': 50, 'https://www.magics.tech': 40, 
+'https://neu-air-technologies.com': 135, 'https://www.dr-technologie.eu': 0, 'https://www.m6-engineering.org': 0, 
+'https://diagrams-technologies.com': 0, 'http://www.e2s-innovation.com': 80, 'https://www.hydromea.com': 70, 
+'https://www.netalux.com': 50, 'https://h3dgamma.com': 135, 'https://www.innomerics.com': 50, 'https://h2scan.com': 75, 
+'https://imitec.co.uk': 5, 'https://www.caint.io': 0, 'https://www.npxinnovation.ca': 35, 'https://innovationorigins.com': 5, 
+'https://www.nusec.de': 0, 'http://pixelmilldigital.com': 135, 'https://www.simsoft-industry.com': 15, 
+'https://www.pilgrim-technology.com': 0, 'https://www.wisebim.fr': 0, 'https://icohup.com': 0, 'https://ideon.ai': 50, 
+'https://www.olikrom.com': 150, 'https://www.cleanlaser.de': 130, 'https://www.cold-pad.com': 95
+
+Top 10% of a normal run have score of 50+
+Note: EPO scores not included
+Catches 60% of good websites
